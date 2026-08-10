@@ -1,0 +1,11 @@
+.env
+.env.*
+*.dat
+*.nbt
+*.mca
+*.mcr
+*.schematic
+*.zip
+*.bak
+node_modules/
+dist/
