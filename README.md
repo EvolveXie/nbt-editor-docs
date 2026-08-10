@@ -42,6 +42,9 @@ Chunkweave is designed for **Minecraft Java Edition**. Bedrock Edition files are
 - [Safe Minecraft NBT editing checklist](https://nbteditor.org/blog/safe-minecraft-nbt-editing)
 - [NBTExplorer alternative](https://nbteditor.org/nbtexplorer-alternative)
 
+<img width="3512" height="1964" alt="image" src="https://github.com/user-attachments/assets/8e96746f-17da-42e0-b6a5-f88b19027be7" />
+
+
 ## A safe editing workflow
 
 1. Back up the complete world folder.
